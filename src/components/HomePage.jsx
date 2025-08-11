@@ -32,7 +32,7 @@ const HomePage = () => {
   return (
     <div className="container">
       {/* Header */}
-      <div className="header">
+      <div className="KLU APP">
         <h1>E-Commerce</h1>
         <div className="header-right">
           {isAuthenticated ? (
